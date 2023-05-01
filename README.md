@@ -6,4 +6,4 @@ El diagrama de Sankey es pot trobar al següent enllaç d'infogram: [Diagrama de
 
 L'agrupament hexagonal es pot trobar a la carpeta Hexagon_Binning.
 
-La carpeta Icon_chart conté el codi Python que genera la visualització amb les icones corresponents.
+La carpeta Icon_Chart conté el codi Python que genera la visualització amb les icones corresponents.
