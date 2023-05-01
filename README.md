@@ -1,4 +1,4 @@
-# Data_Visualization
+# Data Visualization
 
 Aquest repositori és per guardar les visualitzacions de l'activitat 5 de l'assignatura Visualització de Dades del Màster de Ciència de Dades de la UOC.
 
